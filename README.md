@@ -26,7 +26,7 @@ The frame-based data described here contain **8,889 frames** organized into **14
 
 - Each folder contains one image sequence.
 - All image files store **single-channel, 8-bit (`uint8`) arrays**.
-- The current test split contains **432 BMP files and 48 PNG files**.
+- The current test split contains **480 BMP files** .
 - Sequence lengths vary in the training split. Each test sequence contains exactly 48 frames.
 - Keep the provided `Train` and `Test` split assignments when reporting results.
 
